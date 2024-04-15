@@ -1,0 +1,47 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "b2206b998246649be8f331a9dbf87657",
+    "packages": [
+        {
+            "name": "javanile/php-glossary",
+            "version": "0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/javanile/php-glossary.git",
+                "reference": "11b8664c1ae6c0818051bbd4c613b2e04f5752f4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/javanile/php-glossary/zipball/11b8664c1ae6c0818051bbd4c613b2e04f5752f4",
+                "reference": "11b8664c1ae6c0818051bbd4c613b2e04f5752f4",
+                "shasum": ""
+            },
+            "bin": [
+                "bin/glossary"
+            ],
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "support": {
+                "issues": "https://github.com/javanile/php-glossary/issues",
+                "source": "https://github.com/javanile/php-glossary/tree/0.1.0"
+            },
+            "time": "2024-04-15T14:32:10+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
+}

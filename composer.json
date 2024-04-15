@@ -1,0 +1,5 @@
+{
+    "require": {
+        "javanile/php-glossary": "^0.1.0"
+    }
+}
