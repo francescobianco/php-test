@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/javanile/php-glossary.git",
-                "reference": "11b8664c1ae6c0818051bbd4c613b2e04f5752f4"
+                "reference": "ce623105021ba461ff32b2f3eae03c9bf9995da3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/javanile/php-glossary/zipball/11b8664c1ae6c0818051bbd4c613b2e04f5752f4",
-                "reference": "11b8664c1ae6c0818051bbd4c613b2e04f5752f4",
+                "url": "https://api.github.com/repos/javanile/php-glossary/zipball/ce623105021ba461ff32b2f3eae03c9bf9995da3",
+                "reference": "ce623105021ba461ff32b2f3eae03c9bf9995da3",
                 "shasum": ""
             },
             "bin": [
@@ -28,11 +28,12 @@
             "license": [
                 "MIT"
             ],
+            "description": "Demonstrative Conceptual Implementation: Glossary Code Analysis Tool for PHP",
             "support": {
                 "issues": "https://github.com/javanile/php-glossary/issues",
                 "source": "https://github.com/javanile/php-glossary/tree/0.1.0"
             },
-            "time": "2024-04-15T14:32:10+00:00"
+            "time": "2024-04-15T14:39:10+00:00"
         }
     ],
     "packages-dev": [],
