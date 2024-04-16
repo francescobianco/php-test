@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/javanile/php-glossary.git",
-                "reference": "93fb6a4f328b6816456a29aa4aeedd60db5d0998"
+                "reference": "130027fe1e6606689356937d2706abc16975adc5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/javanile/php-glossary/zipball/93fb6a4f328b6816456a29aa4aeedd60db5d0998",
-                "reference": "93fb6a4f328b6816456a29aa4aeedd60db5d0998",
+                "url": "https://api.github.com/repos/javanile/php-glossary/zipball/130027fe1e6606689356937d2706abc16975adc5",
+                "reference": "130027fe1e6606689356937d2706abc16975adc5",
                 "shasum": ""
             },
             "bin": [
@@ -33,7 +33,7 @@
                 "issues": "https://github.com/javanile/php-glossary/issues",
                 "source": "https://github.com/javanile/php-glossary/tree/0.1.0"
             },
-            "time": "2024-04-15T15:24:01+00:00"
+            "time": "2024-04-15T17:01:12+00:00"
         }
     ],
     "packages-dev": [],
